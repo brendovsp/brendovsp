@@ -4,7 +4,7 @@ Apaixonado por tecnologia, resolução de problemas e jogos RTS :heart:
 
 #### :pushpin: Contato
 
-<a href="mailto:#"> ![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=D14836) </a>
+<a href="mailto:brendoviegash@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=D14836) </a>
 <a href="#"> ![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5) </a>
 
 #### :wrench: Tecnologias
